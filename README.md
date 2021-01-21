@@ -1,6 +1,6 @@
 # Assignment - Crearea primului document HTML
 
-# # Exercitiu
+## Exercitiu
 
 Creaţi o pagină HTML.
 
